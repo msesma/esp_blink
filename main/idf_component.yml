@@ -1,0 +1,4 @@
+dependencies:
+  espressif/led_strip: "^2.4.1"
+  espressif/button: ">=2.3.0"
+  espressif/knob: ">=0.1.0"
